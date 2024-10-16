@@ -1,4 +1,4 @@
-# Cloud-cost-optimizationCloud cost optimization using Boto3
+# Cloud cost optimization using Boto3
 Introduction
 What are the reasons for companies to migrate from on-premises servers to the Cloud?
 
